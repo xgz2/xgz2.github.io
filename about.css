@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.cornell {
+  color: #b31b1b;
+  background-color: #f8d3d3;
+}
+
+a.meta {
+  color: #4267B2;
+  background-color: #dae2f1;
+}
+
+a.scale {
+  color: #dc46cf;
+  background-color: #fbeaf9;
+}
+
+a.mongo {
+  color: #04684c;
+  background-color: #cefdf0;
+}

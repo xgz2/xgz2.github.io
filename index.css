@@ -1,0 +1,17 @@
+html {
+  height: 100%
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 50px;
+  display: flex; 
+  height: 100%; 
+  overflow: hidden;
+  align-items: center;
+}
+
+a {
+  color: hotpink;
+  text-decoration: none;
+}
